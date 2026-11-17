@@ -6,6 +6,12 @@
 > 
 > 本仓库不是书评影评合集，而是一套**以交付结果为目标的行动手册**。全库分读书笔记、观影笔记、主题手册三条线：读书/观影笔记逐本独立成文件，主题手册把分散技巧拧成完整动线。
 
+## 使用建议与边界声明
+
+- 内容仅供学习与自我训练参考，**不构成心理诊断、医疗建议、婚姻/情感决定依据或任何投资建议**。
+- 涉及他人行为解读的部分属于沟通视角而非事实判定；**识别不了真实意图，就不要替对方下结论**。
+- 需说明的是：本仓库全部文件由公开或原始资料收集而来，并经 AI 工具重新归纳、整理与结构化。二创请注明出处，商业使用前请自行确认合规。
+
 ## 协议（CC BY 4.0）
 
 ### 协议摘要
@@ -23,9 +29,25 @@
 | :----------------: | :-----------------: | :-----------------: |
 | <img src="images/wx.jpg" alt="赞赏码" width="200"> | <img src="images/zfb.jpg" alt="支付宝" width="200">| <img src="images/zfb_hb.jpg" alt="支付宝红包" width="200">|
 
-## 使用建议与边界声明
+## 你可以在这些地方找到我 (Find Me Here)
 
-- 内容仅供学习与自我训练参考，**不构成心理诊断、医疗建议、婚姻/情感决定依据或任何投资建议**。
-- 涉及他人行为解读的部分属于沟通视角而非事实判定；**识别不了真实意图，就不要替对方下结论**。
-- 原书与原片的著作权、观点、案例归原作者与权利人所有；本仓库仅对**整理汇编成果**采用 CC BY 4.0。
-- 需说明的是：本仓库全部文件由公开或原始资料收集而来，并经 AI 工具重新归纳、整理与结构化。二创请注明出处，商业使用前请自行确认合规。
+<p align="center">
+  <a href="https://gitcode.com/iaoexl/Art-of-Communication.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
+  </a>
+  <span style="color: #999;">&nbsp;/&nbsp;</span>
+  <a href="https://atomgit.com/iaoexl/Art-of-Communication.git" target="_blank" rel="noopener">&nbsp;AtomGit
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cnb.cool/iaoexl/Art-of-Communication.git" target="_blank" rel="noopener">
+    <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl/Art-of-Communication.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/iaoexl/Art-of-Communication.git" target="_blank" rel="noopener">
+    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+</p>
